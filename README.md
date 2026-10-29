@@ -1,55 +1,77 @@
-# JManishkanna
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+JManishkanna;Frontend+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</div>
 
-Frontend developer focused on building responsive, accessible, and maintainable web interfaces.
+<h1 align="center">JManishkanna</h1>
 
-I work with HTML, CSS, JavaScript, and modern frontend practices to turn design and product requirements into clear, usable experiences. My work is guided by clean structure, practical problem solving, and attention to detail.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-0EA5E9?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-HTML%20CSS%20JS-FFB703?style=for-the-badge" />
+</p>
 
-## About
+<p align="center">
+  I design and build clean, responsive, and user-focused web experiences with a strong eye for detail and a passion for modern interfaces.
+</p>
 
-- Frontend development with emphasis on usability and clarity
-- Interested in interface design, responsive layouts, and product-focused UI work
-- Comfortable translating requirements into working, testable front-end implementations
-- Continuously improving technical and design skills through project work
+---
 
-## Focus Areas
+## About Me
 
-- Responsive web interfaces
-- UI implementation from design to code
-- Frontend structure and maintainability
-- Accessibility and usability fundamentals
-- Small product builds and portfolio projects
+- 💼 Passionate about frontend development and web design
+- 🎨 Interested in clean UI, responsive layouts, and modern aesthetics
+- ⚙️ Working with HTML, CSS, JavaScript, and frontend tooling
+- 📚 Continuously learning and improving my development skills
+- 🌍 Building projects that are functional, appealing, and user-friendly
 
-## Technical Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Git and GitHub
-- Visual Studio Code
+## Core Skills
 
-## Selected Projects
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-- [bp](https://github.com/JManishkanna/bp)
-- [Cineflowmj](https://github.com/JManishkanna/Cineflowmj)
-- [candy-man](https://github.com/JManishkanna/candy-man)
-- [Mephisto-Portfolio](https://github.com/JManishkanna/Mephisto-Portfolio)
-- [resume](https://github.com/JManishkanna/resume)
-- [shoping-page](https://github.com/JManishkanna/shoping-page)
+---
 
-## Working Style
+## Featured Projects
 
-I aim to build interfaces that are:
-- clear and readable
-- responsive across screen sizes
-- easy to maintain
-- aligned with product goals
-- practical to extend over time
+- [bp](https://github.com/JManishkanna/bp) — Personal project and web experimentation
+- [Cineflowmj](https://github.com/JManishkanna/Cineflowmj) — UI-oriented project and frontend showcase
+- [candy-man](https://github.com/JManishkanna/candy-man) — Creative frontend concept
+- [Mephisto-Portfolio](https://github.com/JManishkanna/Mephisto-Portfolio) — Portfolio-style development work
 
-## Contact
+---
 
-- GitHub: [JManishkanna](https://github.com/JManishkanna)
+## GitHub Statistics
 
-## Availability
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JManishkanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-Open to frontend work, product-focused collaboration, and technical projects where clear implementation and thoughtful execution matter.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JManishkanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/JManishkanna">
+    <img src="https://img.shields.io/badge/GitHub-@JManishkanna-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JManishkanna&label=Profile%20Views&color=0EA5E9&style=flat" />
+</p>
+
+<p align="center">
+  <i>Build with purpose. Design with clarity.</i>
+</p>
