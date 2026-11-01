@@ -34,9 +34,11 @@
   <img src="https://img.shields.io/badge/Goal-Building%20Modern%20applications-06B6D4?style=for-the-badge" />
 </p>
 
-<p align="center">
-  I’m a passionate <strong>frontend developer</strong> who enjoys creating clean, modern, and user-friendly web experiences.  
-  I love turning ideas into visually appealing and interactive interfaces using HTML, CSS, JavaScript, and thoughtful problem-solving.
+<p align="center" >
+ I’m a passionate Full Stack Developer who enjoys building clean, modern, and user-friendly web applications. 
+ I love transforming ideas into functional digital experiences using Java, Spring Boot, MySQL, React.js, HTML, CSS, and JavaScript.
+ I’m passionate about developing responsive user interfaces, building robust backend systems, managing databases, and creating seamless end-to-end web solutions  
+ through creativity, continuous learning, and thoughtful problem-solving.
 </p>
 
 ---
