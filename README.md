@@ -53,6 +53,11 @@
 
 <!-- Skills and Blogs -->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
 <div align=right> 
 
   <!-- frontend -->
@@ -85,12 +90,6 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
-</picture>
-
 <br />
 
 <h3 align="left">Current Learning</h3>
@@ -114,14 +113,14 @@
 
 ---
 
-<!-- Daily Quote -->
+<!-- Daily Quote 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
+//STARTS HERE QUOTE CARD //
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
+ENDS_HERE_QUOTE_CARD-->
 
 ---
 
@@ -133,7 +132,7 @@
     <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
   </a>
 
- <a href="https://www.instagram.com/pakku_dabba_" target="_blank">
+ <a href="https://www.instagram.com/am_mephisto_19" target="_blank">
     <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
 
