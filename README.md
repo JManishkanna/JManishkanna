@@ -95,7 +95,6 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Currently Learning And Deepening my knowledge MERN to develope My MERN Stack Skills.</li>
-  <li>Deepening my knowledge in Backend and Databases.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
 </ul>
 
