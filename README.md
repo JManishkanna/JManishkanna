@@ -15,7 +15,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   Hello, I'm <strong>JManishkanna</strong>
 </h1>
-
 <h2 align="center">Full Stack Developer</h2>
 
 <br />
@@ -74,6 +73,7 @@
 
 
 <br />
+<br/>
 
 <br />
 
