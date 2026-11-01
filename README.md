@@ -1,77 +1,175 @@
+
+![Manish Banner Image](banner.png)
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+JManishkanna;Frontend+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JManishkanna!;Frontend+Developer;Web+Designer;Learning+and+Building" alt="Typing SVG" />
 </div>
 
-<h1 align="center">JManishkanna</h1>
+<!-- Night Owl image -->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
+<!-- Header -->
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  Hello, I'm <strong>JManishkanna</strong>
+</h1>
+
+<h2 align="center">Full Stack Developer</h2>
+
+<br />
+
+<!-- Intro -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-0EA5E9?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-HTML%20CSS%20JS-FFB703?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-7C3AED?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Skills-HTML%20CSS%20JS-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Building%20Modern%20UI-06B6D4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  I design and build clean, responsive, and user-focused web experiences with a strong eye for detail and a passion for modern interfaces.
+  I’m a passionate <strong>frontend developer</strong> who enjoys creating clean, modern, and user-friendly web experiences.  
+  I love turning ideas into visually appealing and interactive interfaces using HTML, CSS, JavaScript, and thoughtful problem-solving.
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 💼 Passionate about frontend development and web design
-- 🎨 Interested in clean UI, responsive layouts, and modern aesthetics
-- ⚙️ Working with HTML, CSS, JavaScript, and frontend tooling
-- 📚 Continuously learning and improving my development skills
-- 🌍 Building projects that are functional, appealing, and user-friendly
+- 🌐 Interested in web design and frontend development
+- 💡 Enjoy building responsive and interactive user interfaces
+- 🎨 Focused on clean UI/UX and modern design patterns
+- 📚 Constantly learning new tools, technologies, and best practices
+- 🔭 Exploring creative ways to improve digital experiences
 
 ---
 
-## Core Skills
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+<!-- Skills and Blogs -->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Backend and Databases.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+</ul>
+
+
+<br />
+
+<br />
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JManishkanna">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=JManishkanna&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JManishkanna">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=JManishkanna&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Latest Project</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JManishkanna">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=JManishkanna&repo=JManishkanna&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center"><strong>Top Contributions</strong></h3>
+      <p align="center">
+        <a href="https://github.com/JManishkanna">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=JManishkanna&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph 📈</h2>
+
+<div align="center">
+  <img src="https://activity-graph-kappa.vercel.app/graph?username=JManishkanna&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-## Featured Projects
+<!-- Daily Quote -->
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 
-- [bp](https://github.com/JManishkanna/bp) — Personal project and web experimentation
-- [Cineflowmj](https://github.com/JManishkanna/Cineflowmj) — UI-oriented project and frontend showcase
-- [candy-man](https://github.com/JManishkanna/candy-man) — Creative frontend concept
-- [Mephisto-Portfolio](https://github.com/JManishkanna/Mephisto-Portfolio) — Portfolio-style development work
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
-## GitHub Statistics
+<!-- Contact -->
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JManishkanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JManishkanna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/JManishkanna">
-    <img src="https://img.shields.io/badge/GitHub-@JManishkanna-181717?style=for-the-badge&logo=github" />
+<div align="center">
+  <a href="mailto:manishpvt19@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JManishkanna&label=Profile%20Views&color=0EA5E9&style=flat" />
-</p>
+ <a href="https://www.instagram.com/pakku_dabba_" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
 
+  <a href="https://github.com/JManishkanna" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/manish-kanna-j-604b88298" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+
+
+</div>
+
+<br />
+
+<!-- Footer -->
 <p align="center">
-  <i>Build with purpose. Design with clarity.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
