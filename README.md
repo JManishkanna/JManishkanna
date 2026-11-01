@@ -1,9 +1,13 @@
+<!-- just a normal greeting  -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=900&size=26&duration=1000&pause=1001&color=06A5FF&width=435&lines=WELCOME++TO+MEPHISTO'S+GITHUB++" alt="Typing SVG" />
+</div>
+
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JManish+kanna+J!;Frontend+Developer;Web+Designer;Learning+and+Building" alt="Typing SVG" />
+</div>
 
 ![Manish Banner Image](banner.png)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JManishkanna!;Frontend+Developer;Web+Designer;Learning+and+Building" alt="Typing SVG" />
-</div>
 
 <!-- Night Owl image -->
 <div>
@@ -11,11 +15,11 @@
 </div>
 
 <!-- Header -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   Hello, I'm <strong>JManishkanna</strong>
 </h1>
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer</h2> -->
 
 <br />
 
