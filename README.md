@@ -1,12 +1,14 @@
 <!-- just a normal greeting  -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=900&size=26&duration=1000&pause=1001&color=06A5FF&width=435&lines=WELCOME++TO+MEPHISTO'S+GITHUB++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=900&size=26&duration=899&pause=10000&color=06A5FF&width=435&lines=WELCOME++TO+MEPHISTO'S+GITHUB;" alt="Typing SVG" />
 </div>
 
+<!--name popup -->
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JManish+kanna+J!;Frontend+Developer;Web+Designer;Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JManish+kanna+J!;FullStack+Developer;BCA+Graduate;Web+Designer;Learning+and+Building" alt="Typing SVG" />
 </div>
 
+<!--Banner -->
 ![Manish Banner Image](banner.png)
 
 <!-- Night Owl image -->
@@ -71,6 +73,7 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
+  <li>Currently Learning And Deepening my knowledge MERN to develope My MERN Stack Skills.</li>
   <li>Deepening my knowledge in Backend and Databases.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
 </ul>
