@@ -1,6 +1,9 @@
 <!-- just a normal greeting  -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=900&size=26&duration=899&pause=10000&color=06A5FF&width=435&lines=WELCOME++TO+MEPHISTO'S+GITHUB;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Chewy&weight=100&size=40&duration=1009&pause=10000&width=505&height=85&lines=WELCOME+TO+MEPHISTO'S+GITHUB" alt="Typing SVG" />
+  </div>
+
+  
 </div>
 
 <!--name popup -->
@@ -10,6 +13,7 @@
 
 <!--Banner -->
 ![Manish Banner Image](banner.png)
+
 
 <!-- Night Owl image -->
 <div>
