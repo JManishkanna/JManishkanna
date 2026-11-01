@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Focus-FullStack%20Development-7C3AED?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Skills-HTML%20CSS%20JS%20JAVA%20MySQL-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UpSKILLING-MERN-06FFF4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Building%20Modern%20applications06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Building%20Modern%20applications-06B6D4?style=for-the-badge" />
 </p>
 
 <p align="center">
