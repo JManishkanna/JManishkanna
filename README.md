@@ -16,14 +16,15 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!-- Header -->
-<!-- <h1 align="center">
+<!-- Header
+<h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
   Hello, I'm <strong>JManishkanna</strong>
 </h1>
 <h2 align="center">Full Stack Developer</h2> -->
 
-<br />
+<br>
+<br>
 
 <!-- Intro -->
 <p align="center">
@@ -39,7 +40,7 @@
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2> 
 
 - 🌐 Interested in web design and frontend development
 - 💡 Enjoy building responsive and interactive user interfaces
