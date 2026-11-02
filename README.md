@@ -148,9 +148,9 @@ ENDS_HERE_QUOTE_CARD-->
   <a href="https://www.linkedin.com/in/manish-kanna-j-604b88298" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-<h1 align="center"> Contribution</h1>
+<!-- <h1 align="center"> Contribution</h1>
   <img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/38f0cfdc-a1ff-416e-bc0d-fa16a74462b0" />
-
+ -->
 
 
 </div>
